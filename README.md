@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="src/assets/dssave.png" alt="DSSAVE Logo" width="120" />
+
 
   # DSSAVE
 
